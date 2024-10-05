@@ -1,0 +1,1564 @@
+[
+  {
+    "id": "33",
+    "userId": "1",
+    "ip": "113.33.218.130",
+    "messages": [
+      {
+        "role": "user",
+        "content": "こんにちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは。お話ししたいことがあれば、お聞かせくださいね。どのようなことでも構いません。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "眠れないんです"
+      },
+      {
+        "role": "assistant",
+        "content": "おっしゃる通り、睡眠の問題はとてもつらいですね。眠れないとストレスや体調不良につながります。リラックスする習慣や睡眠環境の改善を試してみることが大切です。また、専門家との面談をお勧めします。専門家との面談や医療機関受診をご希望でしたら、予約をお手伝いしますのでお知らせください。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "tio2xjl2ix",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-28 07:25:39",
+    "updated": "2024-09-28 07:25:49"
+  },
+  {
+    "id": "32",
+    "userId": "1",
+    "ip": "113.33.218.130",
+    "messages": [
+      {
+        "role": "user",
+        "content": "コンんちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは！お話しできて嬉しいです。どんなことがありましたか？お話を聞かせてくださいね。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "眠れないんです"
+      },
+      {
+        "role": "assistant",
+        "content": "眠れないとストレスや不安の影響が考えられます。リラックスする習慣や寝る前のルーティンを整えることで改善するかもしれません。また、専門家と面談した方がよいかもしれません。ご希望であれば面談の予約をお手伝いします。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "h5ctngu8v",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-28 07:15:54",
+    "updated": "2024-09-28 07:16:04"
+  },
+  {
+    "id": "31",
+    "userId": "1",
+    "ip": "113.33.218.130",
+    "messages": [
+      {
+        "role": "user",
+        "content": "コンんちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは！どのようにお手伝いしましょうか？",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_02",
+    "chatId": "8hn7i11pk36",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-28 07:05:28",
+    "updated": "2024-09-28 07:05:28"
+  },
+  {
+    "id": "30",
+    "userId": "1",
+    "ip": "113.33.218.130",
+    "messages": [
+      {
+        "role": "user",
+        "content": "眠れない"
+      },
+      {
+        "role": "assistant",
+        "content": "それは大変ですね。睡眠の問題は心身の健康に影響を与えます。リラックスできる環境を整え、寝る前にリラックスする時間を作ることが重要です。また、規則正しい生活リズムを整えることも助けになります。もし症状が続くようであれば、専門家と相談することをお勧めします。ご希望であれば、専門家との面談の予約を手配しましょうか？",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "死にたい"
+      },
+      {
+        "role": "assistant",
+        "content": "そのような気持ちを抱えていることはとても重要です。自殺の気持ちを抱えることは孤独で苦しいことかもしれません。しかし、あなたの気持ちを誰かと共有することで少しでも楽になれるかもしれません。専門家やカウンセラーと話すことで解決策を見つける手助けができます。まずは専門家との面談をお勧めします。ご希望であれば、面談の予約を手配しますか？",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "j1ulm36cvtm",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-28 06:22:21",
+    "updated": "2024-09-28 06:22:56"
+  },
+  {
+    "id": "29",
+    "userId": null,
+    "ip": "1.73.150.248",
+    "messages": [
+      {
+        "role": "user",
+        "content": "なんか調子悪い"
+      },
+      {
+        "role": "assistant",
+        "content": "大丈夫、そんな日もあるよね。ゆっくり休んで、自分を大切にしてね。話したいことがあればいつでも聞くよ。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "コロナかも　味がしない"
+      },
+      {
+        "role": "assistant",
+        "content": "心配だね。安静にして、水分補給を忘れずに。症状が続く場合は医師に相談してみてね。一緒に乗り越えよう。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "ここ2、3日調子悪い"
+      },
+      {
+        "role": "assistant",
+        "content": "体調が優れないのはつらいね。十分な休息と水分を取ることを心がけて。悪化するようなら医師に相談するのもいいよ。気をつけてね。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "バイト休んだ方が良いかな"
+      },
+      {
+        "role": "assistant",
+        "content": "体が疲れているなら、休むことも大切だよ。自分を大切にして、無理せず適度に休息を取ることをおすすめするね。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "店長になんて言おうかな"
+      },
+      {
+        "role": "assistant",
+        "content": "正直な気持ちを伝えることが一番だよ。体調不良で無理がきかないことを伝えて、協力をお願いするのもいいかもしれないね。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "そうだね"
+      },
+      {
+        "role": "assistant",
+        "content": "頑張ってね。きっと理解してくれるはずだよ。気持ちに余裕を持って、自分を大切にしてね。応援してるよ。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_05",
+    "chatId": "65h8dj5hllq",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-28 05:36:34",
+    "updated": "2024-09-28 05:38:40"
+  },
+  {
+    "id": "28",
+    "userId": null,
+    "ip": "49.105.98.213",
+    "messages": [
+      {
+        "role": "user",
+        "content": "お腹が最近下しやすくゆるい状態が続くんですが、どうしたら良いですか？"
+      },
+      {
+        "role": "assistant",
+        "content": "お腹が不調の時は、水分補給と消化しやすい食事を心掛けてください。症状が続く場合は医師に相談することも大切です。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "え、それだけ？"
+      },
+      {
+        "role": "assistant",
+        "content": "すみません、具体的なアドバイスが欲しいですか？食物繊維を摂取し、ストレスを軽減することも大事です。専門家に相談しても良いでしょう。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_08",
+    "chatId": "rbtcgeuc2v",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-28 03:55:12",
+    "updated": "2024-09-28 03:55:32"
+  },
+  {
+    "id": "27",
+    "userId": "1",
+    "ip": "1.73.143.106",
+    "messages": [
+      {
+        "role": "user",
+        "content": "進路のことで"
+      },
+      {
+        "role": "assistant",
+        "content": "進路選択は大事な決断ですね。自分の興味や才能を大切に考えて、自信を持って進んでください。一緒に考えましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_03",
+    "chatId": "a4hhe9x482o",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-28 02:40:27",
+    "updated": "2024-09-28 02:40:27"
+  },
+  {
+    "id": "26",
+    "userId": "1",
+    "ip": "1.73.143.106",
+    "messages": [
+      {
+        "role": "user",
+        "content": "こんにちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは！どのようにお手伝いしましょうか？",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_02",
+    "chatId": "whmlplxgfta",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-28 02:38:26",
+    "updated": "2024-09-28 02:38:26"
+  },
+  {
+    "id": "25",
+    "userId": "1",
+    "ip": "1.73.143.106",
+    "messages": [
+      {
+        "role": "user",
+        "content": "コンんちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは！どのようにお手伝いできますか？",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "hf9sst2gbte",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-28 02:20:14",
+    "updated": "2024-09-28 02:20:14"
+  },
+  {
+    "id": "24",
+    "userId": null,
+    "ip": "1.73.129.87",
+    "messages": [
+      {
+        "role": "user",
+        "content": "子どもが学校に行きません。"
+      },
+      {
+        "role": "assistant",
+        "content": "お子さんが学校に行かない理由は何ですか？一緒に話してみましょう。学校に行くことに関する不安や問題点があるかもしれません。一緒に解決策を考えてみましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "担任の先生と合わない。友だちともうまくいかない。勉強も今ひとつ。良いところがありません。"
+      },
+      {
+        "role": "assistant",
+        "content": "お子さんが学校に行かない理由はよくわかりました。担任の先生や友だちとうまくいかないというのはストレスの原因になりますね。一緒に対処策を考えましょう。もし良いところが見つからないようでしたら、一緒に探していきましょう。また、学校でのサポートやカウンセリングを受けることも考えてみてはいかがでしょうか？",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "学校の先生やカウンセラーと会うのは時間がなくて会えません。"
+      },
+      {
+        "role": "assistant",
+        "content": "そうですね、時間がない中、お子さんの学校生活に関する悩みを解決するのは難しいですね。その場合、家庭でのサポートが重要になります。お子さんとじっくり話して、どうして学校に行きたくないのかを理解することが大切です。また、学校との連絡を取り合い、お子さんの支援につなげることも考えましょう。一緒に乗り越えていきましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "家庭ではどう接したら良い？"
+      },
+      {
+        "role": "assistant",
+        "content": "お子さんが学校に行きたくないという気持ちを理解し、尊重することが大切です。まずはお子さんの気持ちを聞いて、なぜ学校に行きたくないのかを理解しましょう。その上で、お子さんと共に解決策を考え、一緒に行動計画を立てることが重要です。また、お子さんには自分の気持ちを表現する機会を与え、サポートすることで自信を持たせてあげましょう。いつでも話を聞いています。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "行動計画の立て方は？"
+      },
+      {
+        "role": "assistant",
+        "content": "行動計画を立てる際には、まずお子さんと一緒に目標を設定しましょう。次に、その目標を達成するための具体的なステップを考えます。例えば、毎日少しずつ学校に行く準備をする、学校に行く前にお気に入りのことをするなどです。そして、達成したら一緒に報酬を決めるとモチベーションも上がります。このように、段階的に取り組むことでお子さんも学校に行く意欲が湧いてくるかもしれません。試してみてください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "休んでゲームばかりしている姿を見ると、つい怒りたくなってしまう。"
+      },
+      {
+        "role": "assistant",
+        "content": "お子さんがゲームばかりしている姿を見ると、心配やイライラが生じるのはよくあることです。しかし、怒るのではなく、お子さんと冷静に話し合いましょう。お子さんにはゲームを楽しむことも大切だと理解させつつ、学校に行くことの重要性も伝えてみてください。一緒に学校に行くことへのモチベーションを高める方法を考え、サポートしていきましょう。その上で、お子さんの感情や考えに理解を示すことが大切です。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "どうしても学科に行かなくても良いと思い"
+      },
+      {
+        "role": "assistant",
+        "content": "お子さんがなぜ学校に行きたくないのか、その理由をよく理解してあげることが大切です。その上で、学校に行くことの重要性や将来のために学ぶことの意味をお子さんと一緒に考えてみましょう。また、学校に行くことが難しい場合は、学校と相談しながら柔軟な対応を考えることも必要です。お子さんの気持ちを尊重しながら、一緒に解決策を見つけていきましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "柔軟な対応とは？"
+      },
+      {
+        "role": "assistant",
+        "content": "柔軟な対応とは、学校や保護者、お子さんが協力して、お子さんに最適な学習環境を作ることです。例えば、オンライン学習や通信制学校、自宅学習など、従来の学校に固執せず、お子さんに合った学習スタイルを探すことが柔軟な対応です。また、学校と連携を取りながら、お子さんの学びや成長をサポートすることも重要です。柔軟な対応を探りながら、お子さんの学びを大切にしていきましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "自宅で一人で学習は無理です。働いているので見られない"
+      },
+      {
+        "role": "assistant",
+        "content": "自宅で一人で学習するのは難しいと感じるのはよく理解できます。お子さんが学習する際には、家庭や学校、地域のサポートを活用することが重要です。例えば、家族や親せき、友人、隣人などに手伝ってもらうことも考えてみてください。また、学校や地域の学習支援プログラムを利用することも有益です。子育てや仕事との両立は大変ですが、お子さんの学びをサポートするために周囲の支援を活用してみましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "地域の支援にはどんなことがあります？"
+      },
+      {
+        "role": "assistant",
+        "content": "地域の支援には、地域センターや児童センターでの学習支援プログラム、地域のボランティア団体による家庭教師や学習サポート、地域の図書館や学習施設の利用などがあります。また、地域の教育委員会や福祉センターに相談することで、子育て支援や学習支援の情報を得ることもできます。地域のサポートを活用することで、お子さんの学びを支援する様々な手段を見つけることができるかもしれません。試してみてください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "私立の学校に通ってますが"
+      },
+      {
+        "role": "assistant",
+        "content": "私立の学校に通っているお子さんは、学習環境が異なるため、学習支援の方法も異なるかもしれません。まずは学校の教職員やカウンセラーと相談し、お子さんの学習面に関する懸念やニーズを共有してみてください。また、学校が提供する補習授業や学習支援プログラムを活用することも一つの方法です。学校との連携を大切にしながら、お子さんの学びをサポートしていきましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "勉強が嫌いみたいで、教科書も開きません"
+      },
+      {
+        "role": "assistant",
+        "content": "お子さんが勉強を嫌いで教科書を開かない状況は、心配ですね。まずはなぜ勉強が嫌いなのか、どんな点が苦手なのかをお子さんと話し合ってみましょう。その上で、興味を持てる学習方法や教材を探してみることが大切です。ゲーム感覚で学べるアプリや動画、実践的な活動など、お子さんに合った学習方法を模索してみてください。また、学習意欲を高めるために目標設定や報酬制度を導入することも効果的かもしれません。一緒に取り組んでいきましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "wflu2z6fdb",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-27 22:59:26",
+    "updated": "2024-09-27 23:10:24"
+  },
+  {
+    "id": "23",
+    "userId": "1",
+    "ip": "1.73.146.128",
+    "messages": [
+      {
+        "role": "user",
+        "content": "こんにちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは！お話しできてうれしいです。どのようなことでお困りですか？お手伝いできることがあればお知らせくださいね。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_07",
+    "chatId": "ptu25mg9ld",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-27 17:37:43",
+    "updated": "2024-09-27 17:37:43"
+  },
+  {
+    "id": "22",
+    "userId": "1",
+    "ip": "1.73.146.128",
+    "messages": [
+      {
+        "role": "user",
+        "content": "こんにちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは。どのようなお悩みがありますか？お話しください。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "uyadl0cy44q",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-27 17:36:44",
+    "updated": "2024-09-27 17:36:44"
+  },
+  {
+    "id": "21",
+    "userId": "1",
+    "ip": "1.73.146.128",
+    "messages": [
+      {
+        "role": "user",
+        "content": "こんにちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは！キャリアについて何かお話ししたいことがあれば、お気軽にどうぞ。一緒に考えてサポートさせていただきます。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "今んちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは！お元気ですか？何かお話したいことがあればお聞かせくださいね。皆さんがお手伝いできることがあれば嬉しいです。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "こんにちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは！元気ですか？お話したいことがあればいつでもお知らせくださいね。あなたのキャリアや将来のことについて一緒に考えましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_04",
+    "chatId": "gsqug2k1wki",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-27 17:34:18",
+    "updated": "2024-09-27 17:36:09"
+  },
+  {
+    "id": "20",
+    "userId": "1",
+    "ip": "1.73.146.128",
+    "messages": [
+      {
+        "role": "user",
+        "content": "こんにちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは！元気？話したいことがあったら気軽に言ってね。いつでも聞いてるよ。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "コンんちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは！元気？話したいことがあったらいつでも聞くよ！どうしたの？",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_06",
+    "chatId": "cwo8cqown5v",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-27 17:33:46",
+    "updated": "2024-09-27 17:34:02"
+  },
+  {
+    "id": "19",
+    "userId": "1",
+    "ip": "1.73.146.128",
+    "messages": [
+      {
+        "role": "user",
+        "content": "こんにちは"
+      },
+      {
+        "role": "assistant",
+        "content": "元気がないみたいですね。何か悩み事でもありますか？話してみてください、一緒に考えましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_06",
+    "chatId": "8g9crqi2o52",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-27 17:32:53",
+    "updated": "2024-09-27 17:32:53"
+  },
+  {
+    "id": "18",
+    "userId": "1",
+    "ip": "1.73.146.128",
+    "messages": [
+      {
+        "role": "user",
+        "content": "こんにtは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんばんは！どうしたの？話してもいいよ。辛いことがあったの？一緒に話してスッキリしようね。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_06",
+    "chatId": "wf386aptrx",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-27 17:32:18",
+    "updated": "2024-09-27 17:32:18"
+  },
+  {
+    "id": "17",
+    "userId": "1",
+    "ip": "1.73.146.128",
+    "messages": [
+      {
+        "role": "user",
+        "content": "眠れない。死にない。"
+      },
+      {
+        "role": "assistant",
+        "content": "おっしゃる通り、眠れないと不安やストレスが蓄積しているサインかもしれません。まずはリラックスする時間を作り、深呼吸やストレッチを試してみてください。また、日中の運動や規則正しい生活リズムも効果的です。もし症状が続くようであれば、専門家との面談や医療機関の受診が必要かもしれません。一緒に対策を考えましょうか？",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "そうだね。"
+      },
+      {
+        "role": "assistant",
+        "content": "眠れないことはつらいですね。早めに対策を考えることが大切です。自分の心と体に合った方法を見つけて、少しずつ改善していきましょう。一緒に取り組んでいけるので、安心してくださいね。その他にも何かお悩みがあればいつでも話してくださいね。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "どうしたら眠れる？"
+      },
+      {
+        "role": "assistant",
+        "content": "眠れない時は以下の方法を試してみてください：1. 寝る前のリラックス法（深呼吸、ストレッチ、読書など）2. 寝室の環境整備（暗く静かにする）3. 規則正しい生活リズム（起床・就寝時間を一定に）4. 運動（日中に適度な運動を）5. 食事や飲酒の見直し（寝る前の大量の飲食やカフェインの摂取を控える）効果がない場合は、専門家に相談することも検討してください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "スマホ見ちゃうんだよね"
+      },
+      {
+        "role": "assistant",
+        "content": "スマホの画面からの青色光は睡眠を妨げる可能性があります。寝る1時間前にスマホを使わないようにするか、ブルーライトカット機能を使うと良いです。代わりに、本を読んだり、リラックスする音楽を聴いたりして、スマホから離れてリラックスする時間を取ると、より良い睡眠が得られるかもしれません。お試しください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "こんにちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは！お話を聞かせていただけますか？何かお悩みや感じていることがあれば、共有してくださいね。話すことで楽になるかもしれませんよ。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "仕事がうまくいかないんです"
+      },
+      {
+        "role": "assistant",
+        "content": "それは大変ですね。ストレスを感じることはよくあります。まずは自分を責めずに、小さな成功や進歩を意識しましょう。一歩ずつ進んでいきましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "5x0ebp3gfu6",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-27 17:21:10",
+    "updated": "2024-09-27 17:31:57"
+  },
+  {
+    "id": "16",
+    "userId": "1",
+    "ip": "1.73.146.128",
+    "messages": [
+      {
+        "role": "user",
+        "content": "眠れない。死にたい"
+      },
+      {
+        "role": "assistant",
+        "content": "お気持ちわかります。辛い気持ちでいっぱいですね。まずは深呼吸して心を落ち着かせましょう。そして、専門家や友人に話を聞いてもらうことも大切です。一緒に解決策を見つけましょう。あなたは大切な存在です。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "ありがとう。"
+      },
+      {
+        "role": "assistant",
+        "content": "どういたしまして。一人で悩まずに、支えてくれる人たちに話を聞いてもらうことが大事です。一緒に乗り越えましょうね。そのためにも、専門家や身近な人に相談してみてください。お体を大切にしてくださいね。気持ちが楽になることを祈っています。どうぞお大事に。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "0lad8vir6rnj",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-27 17:19:01",
+    "updated": "2024-09-27 17:19:20"
+  },
+  {
+    "id": "1",
+    "userId": "1",
+    "ip": "49.109.4.170",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hello"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! How are you today?",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "日本語でもいい？"
+      },
+      {
+        "role": "assistant",
+        "content": "もちろんです！日本語でどのようにお手伝いしましょうか？",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "このサイトはAIとカウンセリングしてみようという試みです。"
+      },
+      {
+        "role": "assistant",
+        "content": "それは素晴らしい試みですね！AIとカウンセリングを組み合わせることで、より多くの人々が気軽にサポートを受けられるかもしれませんね。どのようなサポートが必要ですか？",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "サイト内のページにAIカウンセラー紹介ページを作りました。そこで「チャット開始」をクリックすると、こうしてチャットができるようにしたいです。"
+      },
+      {
+        "role": "assistant",
+        "content": "素晴らしいアイデアですね！ユーザーが簡単にAIカウンセラーとチャットできるようにすると、サポートを受けるハードルが下がりますね。チャット機能を実装する方法についてお手伝いできることがありましたら、お知らせくださいね。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "あなたにカウンセラーになってもらい、ユーザーの相談に回答してもらうことはできますか？"
+      },
+      {
+        "role": "assistant",
+        "content": "申し訳ありませんが、私はAIアシスタントであり、カウンセリング能力はありません。ただし、お手伝いが必要なことや質問があれば、できる限りサポートさせていただきますので、お気軽にご連絡くださいね。どのようなご相談でもお受けいたします。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "プロンプトを書き換えれば良いですか？"
+      },
+      {
+        "role": "assistant",
+        "content": "もちろんです！どのようなプロンプトに変更されたいですか？お手伝いいたしますので、お知らせください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "日本語でも良いですか？"
+      },
+      {
+        "role": "assistant",
+        "content": "はい、もちろんです！日本語でどのようなプロンプトに変更されたいですか？お手伝いいたしますので、お知らせください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "日本語でも大丈夫ですか？"
+      },
+      {
+        "role": "assistant",
+        "content": "はい、日本語でも大丈夫です！どのようなプロンプトに変更されたいですか？お手伝いいたしますので、お知らせください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "８人のカウンセラーのAIチャットぼっとを作りました。そのうち男性４人、女性が４人です。男性カウンセラーとして、答えてほしいです。"
+      },
+      {
+        "role": "assistant",
+        "content": "了解しました。男性カウンセラーとして対応させていただきます。どのようなご相談でもお気軽にお聞かせください。どうぞよろしくお願いします。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "課題があって眠れないのです"
+      },
+      {
+        "role": "assistant",
+        "content": "お疲れ様です。課題が原因で眠れないのはストレスの表れかもしれませんね。リラックスする時間を作りましょう。深呼吸やストレッチ、リラックス音楽など試してみてはいかがでしょうか？また、課題を小さなステップに分けて取り組むことも効果的ですよ。その課題はどのようなものですか？お話ししてください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "スクールの卒業制作です。プログラミングと起業の学校です。"
+      },
+      {
+        "role": "assistant",
+        "content": "卒業制作は大きなプレッシャーになりますね。まずは自分に与えられた課題を細かく分解して、小さな目標を設定して取り組んでみましょう。また、時間管理や休息をしっかりとりながら取り組むことが重要です。自分に合ったスケジュールを立てて、作業と休息のバランスを保つようにしましょう。自分の力を信じて、一歩ずつ進んでいきましょう。どんな制作を考えていますか？ご相談ください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "AIカウンセラーとのチャットボット、必要ならカウンセラーとの面接をするアプリです。"
+      },
+      {
+        "role": "assistant",
+        "content": "素晴らしいアイデアですね！AIカウンセラーとのチャットボットが、多くの人にとって心のサポートとなることでしょう。ただ、カウンセリングには人間の暖かさや共感が欠かせません。AIと人間のカウンセラーを組み合わせることで、より効果的な支援ができるかもしれません。ぜひ、そのアプリを実現させるために取り組んでいただければと思います。どんな機能をつけるかなど、詳細を教えていただけますか？話を聞かせてください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "色々機能をつけたいけどうまくいかないんだ"
+      },
+      {
+        "role": "assistant",
+        "content": "大規模なプロジェクトは挑戦的ですね。まずは目標を具体的に整理して、優先順位をつけると良いでしょう。小さなステップに分けて段階的に進めることが重要です。また、チームとのコミュニケーションを密にし、役割分担を明確にすることも大切です。困ったら、周囲の支援を受けることも忘れずに。一歩ずつ進めていきましょう。頑張ってください。どんな機能について悩んでいますか？一緒に考えましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "決済とか予約のシステムかな"
+      },
+      {
+        "role": "assistant",
+        "content": "決済や予約のシステムは重要な機能ですね。セキュリティや使いやすさを考慮しながら実装する必要があります。まずは要件を整理し、既存のシステムやAPIを活用することも検討してみてください。また、ユーザーテストを重ねながら改善を続けることも大切です。チームでアイデアを出し合いながら、段階的に実装していくと良いでしょう。困ったときは、専門家の助言を仰ぐのも一つの手段です。頑張ってください。任せてください。いますぐ予約システムのアイデアがあれば聞かせてください。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "default",
+    "chatId": "k9k396x56m8",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-23 01:47:29",
+    "updated": "2024-09-27 17:16:46"
+  },
+  {
+    "id": "15",
+    "userId": "1",
+    "ip": "1.73.146.128",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hello"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは！お話しすることがありますか？どうしたのか気になります。話してみましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "rny3heslqs",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-27 03:23:22",
+    "updated": "2024-09-27 03:23:22"
+  },
+  {
+    "id": "14",
+    "userId": "1",
+    "ip": "1.73.146.128",
+    "messages": [
+      {
+        "role": "user",
+        "content": "眠れなくて　死にたくなります"
+      },
+      {
+        "role": "assistant",
+        "content": "お気持ちわかります。辛い気持ちを抱えるのは大変ですね。専門家と話すことをお勧めします。一緒に乗り越えましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "あなた専門家でしょう？"
+      },
+      {
+        "role": "assistant",
+        "content": "私は専門家ではありませんが、お手伝いできることがあれば喜んでサポートします。専門家の相談もお勧めします。自分を大切にしてください。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "d5juv7oeia4",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-26 11:33:07",
+    "updated": "2024-09-26 11:33:32"
+  },
+  {
+    "id": "13",
+    "userId": "1",
+    "ip": "49.109.4.170",
+    "messages": [
+      {
+        "role": "user",
+        "content": "なかなか終わらない"
+      },
+      {
+        "role": "assistant",
+        "content": "それは大変ですね。焦らず、一歩ずつ進んでいきましょう。自分を責めず、自分のペースで進んでいきましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_08",
+    "chatId": "yo95ujduptq",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-23 15:50:23",
+    "updated": "2024-09-23 15:50:23"
+  },
+  {
+    "id": "12",
+    "userId": "1",
+    "ip": "49.109.4.170",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! It's nice to meet you. How can I assist you today?",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "こんにちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは! わたしはAIアシスタントです。何かお手伝いできることがありますか？",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_02",
+    "chatId": "c7ziwnd3axf",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-23 15:27:43",
+    "updated": "2024-09-23 15:27:52"
+  },
+  {
+    "id": "11",
+    "userId": "1",
+    "ip": "49.109.4.170",
+    "messages": [
+      {
+        "role": "user",
+        "content": "暑いね"
+      },
+      {
+        "role": "assistant",
+        "content": "暑さはストレスを増やすことがありますね。涼しい場所でゆっくり休んで、水分補給を忘れずにしてくださいね。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_06",
+    "chatId": "4240fxxhctw",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-23 14:43:24",
+    "updated": "2024-09-23 14:43:24"
+  },
+  {
+    "id": "10",
+    "userId": "1",
+    "ip": "49.109.4.170",
+    "messages": [
+      {
+        "role": "user",
+        "content": "こんにちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは。お話ししていただけると嬉しいです。どんなことが心配ですか？話してみましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_08",
+    "chatId": "ingrk1mcjd",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-23 13:54:22",
+    "updated": "2024-09-23 13:54:22"
+  },
+  {
+    "id": "9",
+    "userId": null,
+    "ip": "49.109.4.170",
+    "messages": [
+      {
+        "role": "user",
+        "content": "ちょっと不安で"
+      },
+      {
+        "role": "assistant",
+        "content": "不安を感じることは自然です。深呼吸をして、感情を受け入れましょう。自分を労わってあげてください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "もうだめかもしれない"
+      },
+      {
+        "role": "assistant",
+        "content": "その気持ちよくわかります。でも、未来は明るい可能性もあります。一歩ずつ進んでいきましょう。支援を受けることも選択肢の一つです。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "失敗できないのに失敗しちゃった"
+      },
+      {
+        "role": "assistant",
+        "content": "失敗は成長の機会です。自分を責めずに、反省して次に活かしましょう。人は完璧ではないので、自分を受け入れましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "5dcd764sfve",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-23 12:32:14",
+    "updated": "2024-09-23 12:33:42"
+  },
+  {
+    "id": "8",
+    "userId": "1",
+    "ip": "49.109.4.170",
+    "messages": [
+      {
+        "role": "user",
+        "content": "はい"
+      },
+      {
+        "role": "assistant",
+        "content": "いいですね。何か気になることがあれば、話してくださいね。お手伝いできることがあれば、喜んでサポートします。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "7t7krfh458q",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-23 12:12:07",
+    "updated": "2024-09-23 12:12:07"
+  },
+  {
+    "id": "7",
+    "userId": "1",
+    "ip": "49.109.4.170",
+    "messages": [
+      {
+        "role": "user",
+        "content": "ちょっと不安で"
+      },
+      {
+        "role": "assistant",
+        "content": "不安を感じるのは自然なことです。深呼吸をして、感情を受け入れましょう。一つ一つの感情に優しく向き合ってください。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "08jdj3uojawq",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-23 11:58:12",
+    "updated": "2024-09-23 11:58:12"
+  },
+  {
+    "id": "6",
+    "userId": "1",
+    "ip": "49.109.4.170",
+    "messages": [
+      {
+        "role": "user",
+        "content": "こんにちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは。お話ししていただけると嬉しいです。どんなことが気になっていますか？話してみましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "p594b8coxz",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-23 07:27:05",
+    "updated": "2024-09-23 07:27:05"
+  },
+  {
+    "id": "5",
+    "userId": "1",
+    "ip": "49.109.4.170",
+    "messages": [
+      {
+        "role": "user",
+        "content": "眠くて死にそうだけど眠れないんです。"
+      },
+      {
+        "role": "assistant",
+        "content": "眠れない時はリラックスの練習を試してみましょう。深呼吸やマインドフルネスをすることで心と体を落ち着かせることができます。お試しください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "課題が多くて眠ってなんかいられないんだ　仕事も忙しいし"
+      },
+      {
+        "role": "assistant",
+        "content": "お忙しい中、ストレスが溜まることもあるでしょう。日々のスケジュールを整理し、優先順位をつけることで少しでも負担を軽減できるかもしれません。無理せず、自分を大切にしてくださいね。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "70e88zeh0kd",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-23 06:48:20",
+    "updated": "2024-09-23 06:48:59"
+  },
+  {
+    "id": "4",
+    "userId": "1",
+    "ip": "49.109.4.170",
+    "messages": [
+      {
+        "role": "user",
+        "content": "眠れないんです"
+      },
+      {
+        "role": "assistant",
+        "content": "良くあるストレスや不安が原因かもしれません。リラックスする習慣を取り入れてみてください。深呼吸や瞑想も効果的です。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "ずっと 徹夜が続いてるんです 課題がたくさんあって眠れないんです"
+      },
+      {
+        "role": "assistant",
+        "content": "お気持ちよくおわかります。課題を整理し、優先順位をつけて取り組むことで、ストレスを減らし睡眠の質を改善できるかもしれません。お体を大切にしてくださいね。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "こんなに辛いならもう学校やめようかと思って"
+      },
+      {
+        "role": "assistant",
+        "content": "お気持ちよくおわかります。重要な決断ですね。まずは感情を整理し、冷静に考えてから決めることをお勧めします。必要ならサポートを受けることも大切です。話を聞かせてください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "病院で睡眠薬も処方してもらってでも飲み過ぎてもう死んだ方がいいかもしれない"
+      },
+      {
+        "role": "assistant",
+        "content": "お気持ちがとても辛いですね。そう感じることはありますが、自分を大切にしてください。専門家や愛する人に話を聞いてもらうことも大切です。助けを求めることは強さの表れです。いますぐ専門家に相談してください。話を聞かせてください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "あなたは 専門家じゃないんですか"
+      },
+      {
+        "role": "assistant",
+        "content": "私は専門家ではありませんが、お話を聞いてサポートすることはできます。専門家の指導を受けることをお勧めします。一緒に助けを求めましょう。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "exnuxvhdld",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-23 06:40:17",
+    "updated": "2024-09-23 06:42:09"
+  },
+  {
+    "id": "3",
+    "userId": "1",
+    "ip": "49.109.4.170",
+    "messages": [
+      {
+        "role": "user",
+        "content": "こんにちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは！お困りごとはありますか？お手伝いできることがあればお知らせくださいね。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "このサイトのカウンセラー紹介ページからこのチャットにリンクが繋がらなくて困っています。"
+      },
+      {
+        "role": "assistant",
+        "content": "申し訳ありません、その問題を解決するのにお手伝いできるかもしれません。いくつかの方法を試してみましょう。まず、ページをリロードしてみたり、ブラウザのキャッシュをクリアしてみたりすることができます。それでも解決しない場合は、サポート担当者にお問い合わせいただくことをお勧めします。お困りの際にはいつでもお知らせください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "サポート担当者へはどのように連絡できますか？"
+      },
+      {
+        "role": "assistant",
+        "content": "サポート担当者に連絡する方法は、通常、ウェブサイトのヘルプセクションやお問い合わせページに記載されています。そこには電話番号、メールアドレス、またはチャットサポートへのリンクが含まれている場合があります。また、サイト内のフッターやコンタクトページなどにも連絡先が記載されていることがあります。それでも見つからない場合は、公式のソーシャルメディアチャンネルを介して問い合わせることもできます。お手伝いできることがあればお知らせください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "NyaoGPTへの連絡、問い合わせはできますか・"
+      },
+      {
+        "role": "assistant",
+        "content": "NyaoGPTへの連絡や問い合わせに関しては、私が代理で対応することはできませんが、公式ウェブサイトやサポートページで連絡先を見つけることができるかもしれません。通常は、NyaoGPTのウェブサイトやサービス利用規約にサポートへの連絡手段が記載されています。それでも見つからない場合は、公式のソーシャルメディアチャンネルを介して問い合わせることもできます。お手伝いできることがあればお知らせください。",
+        "extra": {
+          "embeddings": null
+        }
+      },
+      {
+        "role": "user",
+        "content": "SWELLのブロックエディタの中にチャットボットのショートコードを貼り付けられないの？"
+      },
+      {
+        "role": "assistant",
+        "content": "SWELLのブロックエディタ内でチャットボットのショートコードを貼り付ける際に問題があるかもしれません。SWELLはWordPressのテーマであり、ブロックエディタの仕様やカスタマイズ方法が独自のものになっています。チャットボットのショートコードを正常に挿入できない場合、SWELLのサポートドキュメントやコミュニティフォーラムで解決策を見つけることができるかもしれません。また、SWELLの開発者やサポートチームに直接問い合わせてみることもお勧めします。お困りの際にはいつでもお知らせくださいね。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "chatbot-3sxgw1",
+    "chatId": "3h0upxl6e7q",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-23 04:20:18",
+    "updated": "2024-09-23 04:27:15"
+  },
+  {
+    "id": "2",
+    "userId": "1",
+    "ip": "49.109.4.170",
+    "messages": [
+      {
+        "role": "user",
+        "content": "こんにちは"
+      },
+      {
+        "role": "assistant",
+        "content": "こんにちは！どのようにお手伝いできますか？お話ししてくださいね。",
+        "extra": {
+          "embeddings": null
+        }
+      }
+    ],
+    "extra": {
+      "session": "N/A",
+      "model": "gpt-3.5-turbo",
+      "temperature": 0.8
+    },
+    "botId": "counselor_01",
+    "chatId": "i6nrup28pd8",
+    "threadId": null,
+    "storeId": null,
+    "created": "2024-09-23 03:51:40",
+    "updated": "2024-09-23 03:51:40"
+  }
+]
