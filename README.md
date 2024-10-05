@@ -14,7 +14,7 @@
 
 - `discussions-2024-9-30.json`: AI EngineからエクスポートしたチャットログのJSONファイル。
 - `serviceAccountKey.json`: Firebase Admin SDKのサービスアカウントキー。
-- `saveToFirestore.js`: JSON��ータをFirebase Firestoreに保存するためのスクリプト。
+- `saveToFirestore.js`: JSONデータをFirebase Firestoreに保存するためのスクリプト。
 - `jsonToCSV.js`: JSONデータをCSV形式に変換して保存するためのスクリプト。
 - `summaryToCSV.js`: チャットログを要約し、要約結果をCSV形式で保存するためのスクリプト。
 - `exportToCSV.js`: Firestoreからデータを取得し、スプレッドシート形式で表示するためのスクリプト。
